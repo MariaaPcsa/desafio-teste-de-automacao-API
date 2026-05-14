@@ -1,0 +1,117 @@
+{
+  "$schema": "./node_modules/json-server/schema.json",
+  "bookings": [
+    {
+      "firstname": 123,
+      "id": 1
+    },
+    {
+      "firstname": "Maria Updated",
+      "lastname": "Automation",
+      "totalprice": 900,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2026-08-01",
+        "checkout": "2026-08-20"
+      },
+      "additionalneeds": "Dinner",
+      "id": 2
+    },
+    {
+      "firstname": "Schema",
+      "lastname": "Validation",
+      "totalprice": 100,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2026-01-01",
+        "checkout": "2026-01-10"
+      },
+      "additionalneeds": "Breakfast",
+      "id": 3
+    },
+    {
+      "firstname": 123,
+      "id": 4
+    },
+    {
+      "firstname": "Schema",
+      "lastname": "Validation",
+      "totalprice": 1000,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2026-09-01",
+        "checkout": "2026-09-10"
+      },
+      "additionalneeds": "Breakfast",
+      "id": 5
+    },
+    {
+      "firstname": 123,
+      "id": 6
+    },
+    {
+      "firstname": 123,
+      "id": 7
+    },
+    {
+      "firstname": "Schema",
+      "lastname": "Validation",
+      "totalprice": 1000,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2026-09-01",
+        "checkout": "2026-09-10"
+      },
+      "additionalneeds": "Breakfast",
+      "id": 8
+    },
+    {
+      "firstname": 123,
+      "id": 9
+    },
+    {
+      "firstname": "Schema",
+      "lastname": "Validation",
+      "totalprice": 1000,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2026-09-01",
+        "checkout": "2026-09-10"
+      },
+      "additionalneeds": "Breakfast",
+      "id": 10
+    },
+    {
+      "firstname": 123,
+      "id": 11
+    },
+    {
+      "firstname": "Schema",
+      "lastname": "Validation",
+      "totalprice": 1000,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2026-09-01",
+        "checkout": "2026-09-10"
+      },
+      "additionalneeds": "Breakfast",
+      "id": 12
+    },
+    {
+      "firstname": 123,
+      "id": 13
+    },
+    {
+      "firstname": "Schema",
+      "lastname": "Validation",
+      "totalprice": 1000,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2026-09-01",
+        "checkout": "2026-09-10"
+      },
+      "additionalneeds": "Breakfast",
+      "id": 14
+    }
+  ]
+}
